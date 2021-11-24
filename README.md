@@ -4,8 +4,9 @@ Attempts to hide a watermark inside of an image using a dithering pattern. Ideal
 Watermark may then be extracted using another function
 
 The main objective of this is to create watermarks which don't interfere with the enjoyment of an image, but are difficult to remove.
-
 Can batch create unique copies for a list of usernames. 
+
+Support small artists.
 
 Usage
 
