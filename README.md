@@ -8,7 +8,11 @@ Can batch create unique copies for a list of usernames.
 
 Support small artists.
 
+NOTE: This version is a prototype and does not contain any functionality to prevent reverse engineering. At this point i would consider it unsafe to use for art protection.
+
+
 Usage
+
 
 py watermark.py [image] [jpeg quality] [dither pattern]
 
