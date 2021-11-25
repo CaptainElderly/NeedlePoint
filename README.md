@@ -1,4 +1,4 @@
-A script designed to help artists identify the source of paywalled content leaks.
+A work-in-progress script designed to help artists identify the source of paywalled content leaks.
 
 Attempts to hide a watermark inside of an image using a dithering pattern. Ideally undetectable without zooming in.
 Watermark may then be extracted using another function
